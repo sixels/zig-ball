@@ -1,0 +1,5 @@
+*.log
+tmp/
+
+zig-cache/
+zig-out/
